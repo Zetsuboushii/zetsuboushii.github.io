@@ -23,3 +23,8 @@ a:visited {
 .site-title, .site-title:visited {
     color: #7a1c4b;
 }
+
+.site-nav .page-link {
+    color: #7a1c4b;
+    line-height: 1.5;
+}

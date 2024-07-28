@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+
 Here you can say lots of fun things about your site.
 
 Maybe say a some things about yourself.
