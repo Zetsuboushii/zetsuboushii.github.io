@@ -31,3 +31,7 @@ a:visited {
 .post-meta {
     color: #7a1c4b;
 }
+
+pre {
+    background-color: #7a1c4b;
+}
