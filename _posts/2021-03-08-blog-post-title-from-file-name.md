@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="{{ "../assets/css/style.css" | relative_url }}">
+---
+layout: page
+---
+
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}">
 
 ## Blog Post Title From First Header
 
