@@ -2,7 +2,6 @@
 layout: page
 tags:
   - Programmieren
-  - Schmerz
 title: "Jekyll ist komisch"
 ---
 

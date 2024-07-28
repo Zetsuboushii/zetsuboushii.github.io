@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "Minimal5x7";
+    font-family: "Minimal5x7", sans-serif;
     background-color: #2d162c;
     color: #9775a6;
 }
