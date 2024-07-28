@@ -1,37 +1,37 @@
 body {
-    background-color: #1b0326;
-    color: #eff9d6;
+    background-color: #2d162c;
+    color: #9775a6;
 }
 
 code {
-    color: #eff9d6;
-    background-color: #7a1c4b;
+    color: #9775a6;
+    background-color: #412752;
 }
 
 a {
-    color: #ba5044;
+    color: #683a68;
 }
 
 a:visited {
-    color: #ba5044;
+    color: #683a68;
 }
 
 .footer-col-wrapper {
-    color: #eff9d6;
+    color: #9775a6;
 }
 
 .site-title, .site-title:visited {
-    color: #7a1c4b;
+    color: #412752;
 }
 
 .site-nav .page-link {
-    color: #7a1c4b;
+    color: #412752;
 }
 
 .post-meta {
-    color: #7a1c4b;
+    color: #412752;
 }
 
 pre {
-    background-color: #7a1c4b;
+    background-color: #412752;
 }
