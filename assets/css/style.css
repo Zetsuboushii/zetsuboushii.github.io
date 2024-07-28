@@ -1,4 +1,9 @@
 body {
-    background-color: dimgray;
-    color: white;
+    background-color: #1b0326;
+    color: #eff9d6;
+}
+
+code {
+    color: #eff9d6;
+    background-color: #7a1c4b;
 }
