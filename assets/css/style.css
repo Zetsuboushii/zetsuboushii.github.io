@@ -35,3 +35,16 @@ a:visited {
 pre {
     background-color: #412752;
 }
+
+table {
+    color: #9775a6
+;
+}
+
+table th {
+    background-color: #412752;
+}
+
+table tr:nth-child(2n) {
+    background-color: #683a68;
+}
