@@ -1,10 +1,12 @@
 ---
 layout: page
+tags:
+  - Programmieren
+  - Schmerz
+title: "Jekyll ist komisch"
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}">
-
-## Jekyll ist komisch
 
 Ich habe es nun doch tatsächlich gebacken bekommen diesen Blog aufzusetzen. Schwere Geburt...
 
