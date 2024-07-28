@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-@import "{{ site.theme }}"
+<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
