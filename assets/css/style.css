@@ -9,5 +9,17 @@ code {
 }
 
 a {
+    color: #7a1c4b;
+}
+
+a:visited {
+    color: #7a1c4b;
+}
+
+.footer-col-wrapper {
     color: #ba5044;
+}
+
+.site-title, .site-title:visited {
+    color: #7a1c4b;
 }
