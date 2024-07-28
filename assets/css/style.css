@@ -1,4 +1,12 @@
+@font-face {
+    font-family: 'Minimal5x7';
+    src: url('../Minimal5x7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
+    font-family: "Minimal5x7";
     background-color: #2d162c;
     color: #9775a6;
 }
