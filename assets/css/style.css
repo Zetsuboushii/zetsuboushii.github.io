@@ -9,15 +9,15 @@ code {
 }
 
 a {
-    color: #7a1c4b;
+    color: #ba5044;
 }
 
 a:visited {
-    color: #7a1c4b;
+    color: #ba5044;
 }
 
 .footer-col-wrapper {
-    color: #ba5044;
+    color: #eff9d6;
 }
 
 .site-title, .site-title:visited {
@@ -26,5 +26,8 @@ a:visited {
 
 .site-nav .page-link {
     color: #7a1c4b;
-    line-height: 1.5;
+}
+
+.post-meta {
+    color: #7a1c4b;
 }

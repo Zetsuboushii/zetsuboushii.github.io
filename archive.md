@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
