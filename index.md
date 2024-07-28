@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
-![]()
+![](assets/img/yuyuko_thinking.webp)
 
-こんばんは auf meinem Blog über meine komischen Ansichten. Vorab: Ich drücke mich meist etwas unfeiner aus, daher
-verzeihe mir diese Lappalien.
+こんばんは auf meinem Blog über meine komischen Ansichten.
